@@ -1,0 +1,26 @@
+[
+  {
+    "order_id": 101,
+    "restaurant_name": "Spice Garden",
+    "amount": 250.0,
+    "is_delivered": true
+  },
+  {
+    "order_id": 102,
+    "restaurant_name": "Burger Hub",
+    "amount": 180.5,
+    "is_delivered": false
+  },
+  {
+    "order_id": 103,
+    "restaurant_name": "Curry House",
+    "amount": 620.0,
+    "is_delivered": true
+  },
+  {
+    "order_id": 104,
+    "restaurant_name": "Pizza Point",
+    "amount": 340.75,
+    "is_delivered": false
+  }
+]
